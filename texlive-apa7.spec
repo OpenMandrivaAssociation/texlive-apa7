@@ -3,7 +3,7 @@ Version:	63974
 Release:	2
 Summary:	Format documents in APA style (7th edition)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apa7
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/apa7
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apa7.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apa7.doc.r%{version}.tar.xz
